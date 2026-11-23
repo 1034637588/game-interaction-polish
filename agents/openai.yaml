@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏交互与表现打磨"
+  short_description: "打磨游戏素材运用、操作手感、打击感和视听节奏，交付音效提示词与体验验证"
+  default_prompt: "使用 $game-interaction-polish 打磨当前游戏的素材运用、交互手感与视听反馈，保留现有玩法和奖励逻辑，并交付音效清单、素材 prompt 与实际验证结果。"
