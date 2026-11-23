@@ -53,6 +53,7 @@ git clone https://github.com/1034637588/game-interaction-polish.git ~/.codex/ski
 
 - [SKILL.md](SKILL.md)：能力边界、工作流程与输出要求。
 - [素材与动作配方](references/visual-recipes.md)。
+- [有效叠加与强度调优](references/impact-stacking.md)：组合、相位、强度候选与消融比较。
 - [音效清单与 prompt](references/audio-design.md)。
 - [实现与验证](references/implementation-qa.md)。
 - [专业来源与适用范围](references/sources.md)。
